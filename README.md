@@ -4,4 +4,4 @@ A social science research, empirical data was collected and analyzed using IBM S
 visualized with the help of ggplot, univariate and bivariate descriptive statistics was used 
 to analyze the data.
 
-To view a detailed report, please get the file named "Document of this project" from the Document folder
+To view a detailed report, please get the file named "Document of the project" from the Documents folder
